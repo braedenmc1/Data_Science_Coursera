@@ -1,0 +1,22 @@
+---
+title: "HelloWorld.md"
+author: "Braeden McNulty"
+date: "10/16/2019"
+output: word_document
+---
+
+##This is a Markdown file.
+
+#Introduction
+
+My name is Braeden McNulty, a Political Science MAPSS student from [Pikeveille, KY.](http://pikevilleky.gov/)
+After graduating from Pikeville High School, I atteneded [Centre College](https://www.centre.edu/) in Danville, KY where I earned a BA in _Political Science_ and _History_. At Centre, I was involved numverous organizations that allowed me to share my love of my school with others. These include: 
+
+1. Student Government
+2. First Year Orientation
+3. Admissions Tour Guide
+
+During my tenure on Centre's student government, I spearhaeded a project that led to a composting program with our dining services that is still in use today.
+
+#The MAPSS Program
+Within the MAPSS program, my thesis is about how religiously framing climate change threats and policy proposals affects the extent to which religious Americans percieve the issue and support policy outcomes. The project stemmed from my upbringing in Pikeville where Coal and Christianity are at the heart of political discussions. Broadly speaking, my interest in the politics of climate change and environmental protection rose from a conversation I had with a friend back home. He is an environmental engineer who dislkes the EPA. When talking to him about the health of local waterways, he is very concerned about corporate pollution. Yet, when environmental protection turns to climate change, he is more hesitant to support regulation. 
